@@ -10,7 +10,7 @@
 
 /* HEADER */
 .header {
-    background-color: #1a1a1a;
+    background-color: #1A1A1A;
     padding-top: 36px;
     padding-bottom: 200px;
 }
@@ -55,6 +55,7 @@
     border-left: 1px solid #8C8C8C;
     padding: 8px 0 8px 20px;
     color: #8C8C8C;
+    text-transform: uppercase;
     font-size: 13px;
     letter-spacing: 1.5px;
     margin-bottom: 13px;
@@ -71,7 +72,7 @@
     position: absolute;
     right: 0;
     bottom: 0;
-    white-space: 110px;
+    width: 110px;
     height: 110px;
     padding: 16px;
     display: flex;
@@ -108,7 +109,7 @@
     letter-spacing: 1.5px;
     display: block;
 }
-.about-sudtitle-text {
+.about-subtitle-text {
     display: inline-block;
     border-left: 1px solid #fff;
     padding: 8px 0 8px 20px;
@@ -160,7 +161,7 @@
     display: 1.5px;
     display: block;
 }
-.about-sudtitle {
+.about-subtitle {
     font-size: 13px;
     color: #8C8C8C;
     font-weight: bold;
