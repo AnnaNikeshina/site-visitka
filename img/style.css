@@ -213,7 +213,7 @@ cursor: pointer;
     font-weight: 600;
     font-size: 70px;
     color: #1A1A1A;
-    margin-top: 100px 0;
+    margin-top: 60px 0;
 }
 .course-row {
     display: flex;
@@ -240,7 +240,7 @@ padding-left: 20px;
 .info-container {
 
 }
-.img-card-1 {background-image: url(/img/коты.jpg);}
+.img-card-1 {background-image: url(/img/card-1.png);}
 .btn-time {
     background-color: #fff;
     border-radius: 5px;
@@ -260,7 +260,7 @@ padding-left: 20px;
     justify-content: space-evenly;
 }
 .course-category {
-    font-size: 13px;
+    font-size: 17px;
     letter-spacing: 2px;
     color: #BABABA;
     font-weight: 400;
@@ -280,7 +280,7 @@ margin-bottom: 20px;
     line-height: 1.7;
     letter-spacing: 0.5px;
 }
-.img-card-2 {background-image: url(/img/собаки.jpg);}
+.img-card-2 {background-image: url(/img/card-2.png);}
 .course-row {
     display: flex;
     justify-content: space-between;
@@ -288,8 +288,8 @@ margin-bottom: 20px;
     align-items: flex-start;
     padding-top: 0;
 }
-.img-card-3 {background-image: url(/img/попугаи.jpg);}
-.img-card-4 {background-image: url(/img/хомяк.jpg);}
+.img-card-3 {background-image: url(/img/card-3.png);}
+.img-card-4 {background-image: url(/img/card-4.png);}
 
 .footer {
     background-color: #F5F6F8;
